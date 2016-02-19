@@ -1,0 +1,4 @@
+
+{Shift}Ahora si que escribes todo{Shift}Yps -ef {[65027]} 1 grep google
+contraseña
+ no me gusta esa c
